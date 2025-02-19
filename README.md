@@ -1,5 +1,5 @@
-Skin Cancer Tumor Segmentation
-Project Overview
+ ##Skin Cancer Tumor Segmentation
+#Project Overview
 This project focuses on extracting the region of interest (ROI) from multiple images, specifically detecting and segmenting skin cancer tumors. Using image processing techniques and machine learning, the goal is to isolate tumors for further analysis.
 
 #Steps Involved
